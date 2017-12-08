@@ -41,6 +41,7 @@
   </action>
   <action id="Macro.singleLine">
     <keyboard-shortcut first-keystroke="shift ctrl l" />
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
   <action id="MethodHierarchy.ImplementMethodAction" />
   <action id="Move" />
