@@ -1,4 +1,4 @@
-<keymap version="1" name="Eclipse copy" parent="Eclipse">
+<keymap version="1" name="Alex's Settings" parent="Eclipse">
   <action id="ActivateInspectionResultsToolWindow">
     <keyboard-shortcut first-keystroke="alt i" />
   </action>
