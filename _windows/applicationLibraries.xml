@@ -1,37 +1,39 @@
 <application>
   <component name="libraryTable">
-    <library name="Python 3.7 (python_sandbox) interpreter library">
+    <library name="Python 3.7 interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/DLLs" />
         <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib" />
         <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32" />
-        <root url="file://C:/dev/workspace/python_sandbox/venv" />
-        <root url="file://C:/dev/workspace/python_sandbox/venv/Lib/site-packages" />
-        <root url="jar://C:/dev/workspace/python_sandbox/venv/Lib/site-packages/setuptools-39.1.0-py3.7.egg!/" />
-        <root url="file://C:/dev/workspace/python_sandbox/venv/Lib/site-packages/pip-10.0.1-py3.7.egg" />
-        <root url="file://$USER_HOME$/.IdeaIC2018.3/system/python_stubs/660871008" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/python_stubs/-1881117788" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/DLLs" />
         <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib" />
         <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32" />
-        <root url="file://C:/dev/workspace/python_sandbox/venv" />
-        <root url="file://C:/dev/workspace/python_sandbox/venv/Lib/site-packages" />
-        <root url="jar://C:/dev/workspace/python_sandbox/venv/Lib/site-packages/setuptools-39.1.0-py3.7.egg!/" />
-        <root url="file://C:/dev/workspace/python_sandbox/venv/Lib/site-packages/pip-10.0.1-py3.7.egg" />
-        <root url="file://$USER_HOME$/.IdeaIC2018.3/system/python_stubs/660871008" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/python_stubs/-1881117788" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
+    </library>
+    <library name="Python37-32">
+      <CLASSES />
+      <JAVADOC />
+      <NATIVE>
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32" />
+      </NATIVE>
+      <SOURCES />
     </library>
   </component>
 </application>
