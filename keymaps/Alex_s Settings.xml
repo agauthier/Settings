@@ -87,8 +87,15 @@
   <action id="ToggleLineBreakpoint">
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
+  <action id="UpdateRunningApplication" />
   <action id="Vcs.Log.GoToRef" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
   <action id="hg4idea.QPushAction" />
 </keymap>
